@@ -1,6 +1,9 @@
 # Galaxy-Shooter
 
-use Q to quit Game 
-use ESC to use pause menu
+Game Controles:-
+
+Use Space to shoot laser
+Q to quit Game 
+ESC to use pause menu
 
 I hope u enjoy the game
