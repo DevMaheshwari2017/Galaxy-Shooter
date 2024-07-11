@@ -6,6 +6,7 @@
 * Q to quit Game 
 * ESC to use pause menu
 
+# Overview
 
 Galaxy Shooter is a classic space shooting game that stands out with its unique features and polished visuals. Developed using Unity, this game offers an engaging and visually appealing experience for players.
 
