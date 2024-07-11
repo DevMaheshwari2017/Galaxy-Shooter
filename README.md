@@ -40,7 +40,9 @@ Galaxy Shooter is a classic space shooting game that stands out with its unique 
 ## Technologies Used
 
 **Unity:** The primary game development platform.
+
 **C#:** The programming language used for scripting.
+
 **Unity Post-Processing :** For advanced visual effects.
 
 # Conclusion
